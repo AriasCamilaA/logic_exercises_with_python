@@ -1,0 +1,1 @@
+Different logic exercises and introduction to Python
